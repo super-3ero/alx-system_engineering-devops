@@ -44,5 +44,5 @@ You can assume that all the files we will test with will have at least one lette
 The listing should end with a new line
 #
 **0 string SCHOOL School data
-!:mime School** - a magic file holberton.mgc that can be used with the command file to detect SCHOOL data files. SChool data files always contain the string SCHOOL at offset 0.
+!:mime School** - a magic file school.mgc that can be used with the command file to detect SCHOOL data files. SChool data files always contain the string SCHOOL at offset 0.
 #
